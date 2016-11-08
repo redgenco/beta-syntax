@@ -1,4 +1,4 @@
-# orbit-syntax theme
+# beta-syntax theme
 
 A black Atom syntax theme.
 
