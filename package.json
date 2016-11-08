@@ -1,0 +1,18 @@
+{
+  "name": "beta-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A black Atom syntax theme.",
+  "keywords": [
+    "syntax",
+    "black",
+    "dark",
+    "monochrome",
+    "theme"
+  ],
+  "repository": "https://github.com/redgenco/beta-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
